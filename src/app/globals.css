@@ -422,7 +422,7 @@ a.shot:hover .shot-meta .arrow { transform: translate(2px, -2px); }
 .work-img img { display: block; width: 100%; height: auto; border-radius: 8px 8px 0 0; transition: transform 250ms var(--ease); }
 .work-lead:hover .work-img img { transform: translateY(-4px); }
 .work-info { padding: var(--s5); }
-.work-meta { font-family: var(--mono); font-size: 11px; letter-spacing: 0.04em; color: var(--ink-3); text-transform: uppercase; }
+.work-meta { font-family: var(--mono); font-size: 12px; letter-spacing: 0.04em; color: var(--ink-3); text-transform: uppercase; }
 .work-title { margin-top: var(--s2); font-size: 22px; line-height: 30px; font-weight: 500; letter-spacing: -0.015em; }
 .work-desc { margin-top: var(--s2); font-size: 15px; line-height: 24px; color: var(--ink-2); max-width: 60ch; }
 .work-cta { display: inline-block; margin-top: var(--s4); font-size: 14px; color: var(--accent); }
