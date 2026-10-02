@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "site",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "C:\\Users\\ASUS\\AppData\\Local\\Temp\\claude\\C--Users-ASUS-AppData-Roaming-Claude-scratch-workspaces-ea1f3002-556c-42c8-b908-cdf628858664-b7b87eb6-95ee-4cb3-b443-a4b34a9de4cf-scratch-2026-09-26-4c25f6\\73ad06dd-3f0b-4075-8d14-f7f6ecf4dd00\\scratchpad\\serve.js",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\Claude\\scratch-workspaces\\ea1f3002-556c-42c8-b908-cdf628858664\\b7b87eb6-95ee-4cb3-b443-a4b34a9de4cf\\scratch-2026-09-26-4c25f6"
+      ],
+      "port": 4173
+    }
+  ]
+}
